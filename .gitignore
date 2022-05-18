@@ -1,3 +1,7 @@
+**/__pycache__/
+*.pyc
+**/*.egg-info/
+**/build/
 py_tutorial_env
 2_virtual_envs/*
 !2_virtual_envs/commands.sh
