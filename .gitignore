@@ -1,6 +1,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+main_env/
+
+1_virtual_envs/bfh_env/
+1_virtual_envs/second_env/
 
 # C extensions
 *.so
