@@ -6,10 +6,3 @@ create_env:
 	python3 -m pip install -r requirements.txt && \
 	python3 -m ipykernel install --user --name main_env_kernel
 	@echo ">>> Environment successfully created!\n"
-
-clean:
-	find
-
-# Command for the presentation
-serve_readmes:
-
